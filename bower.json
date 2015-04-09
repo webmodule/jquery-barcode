@@ -1,6 +1,6 @@
 {
-  "name": "jquery-barcode",
-  "version": "0.3",
+  "name": "webmodules-jquery-barcode",
+  "version": "1.0.0",
   "dependencies": {
     "jquery": ">= 1.7.0"
   }
